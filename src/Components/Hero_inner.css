@@ -1,0 +1,12 @@
+.hero__inner {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url(../assets/imeges/slideshow-banners/home4-parallax-banner.jpg);
+    height: 600px;
+  }

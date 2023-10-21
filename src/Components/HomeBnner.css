@@ -1,0 +1,38 @@
+.home_banner1 {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url(../assets/imeges/slideshow-banners/diva-banner1.jpg);
+    height: 600px;
+  }
+
+  .home_banner2 {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url(../assets/imeges/slideshow-banners/diva-banner2.jpg);
+    height: 600px;
+  }
+
+  .home_banner3 {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url(../assets/imeges/slideshow-banners/diva-banner3.jpg);
+    height: 600px;
+  }
